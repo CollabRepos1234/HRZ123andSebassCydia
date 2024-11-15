@@ -1,0 +1,24 @@
+<package>
+	<id>vn.gsm.homebuttonsafari</id>
+	<name>Home Button in Safari</name>
+	<version></version>
+	<compatibility>
+		<firmware>
+                        <miniOS>6.0</miniOS>
+			<maxiOS>6.1.3</maxiOS>
+			<otherVersions>unconfirmed</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Home Button In Safari</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
