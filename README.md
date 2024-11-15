@@ -1,3 +1,3 @@
-Hello! This is a shared Cydia Repo from HRZ123 and SebassCydia. Enjoy
+Hello! This is a shared Cydia Repo from HRZ123 and SebassCydia.
 -
-HRZ123
+Add to Cydia via going to collabrepos1234.github.io/sharedrepo
