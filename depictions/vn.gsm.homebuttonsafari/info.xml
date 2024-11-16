@@ -1,6 +1,6 @@
 <package>
-	<id>nodelete-net.angelxwind.appsyncunified</id>
-	<name>AppSync Unified</name>
+	<id>vn.gsm.homebuttonsafari</id>
+	<name>Home Button in Safari</name>
 	<version></version>
 	<compatibility>
 		<firmware>
@@ -14,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>AppSync for iOS 6</description>
+		<description>Home Button In Safari</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
