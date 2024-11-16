@@ -1,5 +1,5 @@
 Package: nodelete-net.angelxwind.appsyncunified
-Version: 2.0.0-1
+Version: 84.0
 Section: Tweaks
 Maintainer: HRZ123 <eoeoeoeo@email.com>
 Depends: firmware (>5.0), mobilesubstrate
@@ -9,17 +9,17 @@ Size: 42058
 MD5sum: 979c1973c503b9eb4e9e1151d97c4421
 Description: AppSync Unified, backed up here.
 Name: AppSync Unified
-Author: Karen’s Repo <noemailforyousorry@nada.com>
+Author: Karen/あけみ <noemailforyousorry@nada.com>
 Depiction: https://web.archive.org/web/20230822142239/http://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Package: vn.gsm.homebuttonsafari_1.0
-Version: 2.0.0-1
+Version: 1.0
 Section: Tweaks
 Maintainer: HRZ123 <eoeoeoeo@email.com>
 Depends: firmware (>5.0), mobilesubstrate
 Architecture: iphoneos-arm
 Filename: ./debs/vn.gsm.homebuttonsafari_1.0.deb
 Size: 42058
-MD5sum: 979c1973c503b9eb4e9e1151d97c4421
+MD5sum: 199185b7df43fb9ad6ffc778946f8923
 Description: Adds a home button to Safari, works seamlessly with Safari Home Page. Allows you to set your home page in the settings app or if Safari Home Page is installed then it will use that home page. No new icons are added to the homescreen. Configure options from Settings app.
 Name: Home Button In Safari
 Author: Fr0zen Sun
