@@ -1,7 +1,7 @@
 <package>
-	<id>nodelete-net.angelxwind.appsyncunified</id>
-	<name>AppSync Unified</name>
-	<version></version>
+	<id>vn.gsm.openvpn</id>
+	<name>GuizmOVPN</name>
+	<version>1.1.4</version>
 	<compatibility>
 		<firmware>
                         <miniOS>6.0</miniOS>
@@ -14,7 +14,7 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>AppSync for iOS 6</description>
+		<description>OpenVPN client for iPhone/iPad</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
